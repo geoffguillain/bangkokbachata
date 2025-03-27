@@ -57,7 +57,7 @@ const CTA = () => {
           </div>
           <div></div>
           <b className="text-gray-900  mt-4 md:mt-6 font-medium ">
-            Bangkok Bachata Gang Dance Studio{" "}
+            BBG Dance Studio (available for renting) {" "}
           </b>{" "}
           <p className="  text-gray-500 text-lg font-inter">
             5th floor - unit 10/80, Trendy Building, Sukhumvit 13, Bangkok
