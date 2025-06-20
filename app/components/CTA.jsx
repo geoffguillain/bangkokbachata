@@ -53,6 +53,19 @@ const CTA = () => {
               </svg>
               https://line.me/ti/p/GeBqZ2rttv
             </Link>
+            <div className="text-gray-500 hover:text-gray-900 dark:hover:text-white dark:text-gray-400 flex items-center flex-row gap-2">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                className="fill-gray-500"
+              >
+                <path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24c1.12.37 2.33.57 3.58.57a1 1 0 011 1v3.5a1 1 0 01-1 1C10.6 21 3 13.4 3 4.5A1 1 0 014 3.5h3.5a1 1 0 011 1c0 1.25.2 2.46.57 3.58a1 1 0 01-.24 1.01l-2.21 2.2z" />
+              </svg>
+              +66 92-888-3903
+            </div>
+
             {/* GitHub Icon */}
           </div>
           <div></div>
