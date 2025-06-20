@@ -11,9 +11,9 @@ import Link from "next/link";
 
 const AlternateImages = () => {
   const posts = [
-    "https://www.instagram.com/p/DFy9RRmh_wO/?utm_source=ig_embed&utm_campaign=loading",
-    "https://www.instagram.com/reel/DGcrIMWhXGn/?utm_source=ig_web_copy_link",
-    "https://www.instagram.com/p/DGUVbYSB2Yy/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    "https://www.instagram.com/p/DLE5DkdTSDC/?img_index=1",
+    "https://www.instagram.com/p/DK1foE_TvMe/",
+    "https://www.instagram.com/p/DLHVchZRedX/",
   ];
 
   const [swiperInstance, setSwiperInstance] = useState(null);
@@ -70,35 +70,6 @@ const AlternateImages = () => {
                 dance, leave with community and lifelong friendships for both
                 beginner and advanced dancers!
               </p>
-              <ul className="flex flex-col gap-2 list-disc pl-5">
-                <li>
-                  <Link
-                    href="https://www.instagram.com/p/C3AhPqJBTOn/"
-                    className="hover:text-blue-600  text-blue-500"
-                  >
-                    We host the biggest weekly party in Thailand, Bachata Fever,
-                    averaging 150 dancers every week.
-                  </Link>
-                </li>
-                <li>
-                  <Link
-                    href="https://www.instagram.com/p/DB0uybdBDQn/?img_index=1"
-                    className="hover:text-blue-600   text-blue-500"
-                  >
-                    We host the first and only daytime social in Thailand, The
-                    SaturDAY Social.
-                  </Link>
-                </li>
-                <li>
-                  <Link
-                    href="https://www.instagram.com/salsabachatatemptation/"
-                    className="hover:text-blue-600  max-w-2xl  text-blue-500"
-                  >
-                    We are also co-organizing the biggest Latin dance festival
-                    in Asia, SBTA, right here in Bangkok in September 2025.
-                  </Link>
-                </li>
-              </ul>
             </div>
 
             <div className="w-[320px]  flex md:w-[340px] lg:-translate-y-10 scale-100 lg:scale-[0.80] lg:scale-x-[0.95] shrink-0 overflow-hidden  rounded-lg  mt-3 md:mt-0">
