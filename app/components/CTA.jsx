@@ -29,10 +29,10 @@ const CTA = () => {
             {/* Twitter Icon */}
             <Link
               target="_blank"
-              href="https://www.instagram.com/bkk.bachatagang"
+              href="https://www.instagram.com/bbg.bangkokbachata/"
               className="text-gray-500 hover:text-gray-900 dark:hover:text-white dark:text-gray-400 flex  items-center flex-row gap-2"
             >
-              <Instagram size={20} /> bkk.bachatagang
+              <Instagram size={20} /> bbg.bachatagang
             </Link>
 
             <Link
