@@ -11,9 +11,7 @@ import Link from "next/link";
 
 const AlternateImages = () => {
   const posts = [
-    "https://www.instagram.com/p/DLE5DkdTSDC/?img_index=1",
-    "https://www.instagram.com/p/DK1foE_TvMe/",
-    "https://www.instagram.com/p/DLHVchZRedX/",
+    "https://www.instagram.com/p/DLXSynkTqUV/",
   ];
 
   const [swiperInstance, setSwiperInstance] = useState(null);
