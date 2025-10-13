@@ -28,7 +28,7 @@ const AlternateImages = () => {
       window.instgrm.Embeds.process();
     }
   }, []);
-  const backgroundImage = '/images/about-bg.jpeg';
+  const backgroundImage = './images/about-bg.jpeg';
 
   return (
     <section
