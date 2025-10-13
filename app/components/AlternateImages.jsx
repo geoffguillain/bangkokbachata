@@ -28,11 +28,13 @@ const AlternateImages = () => {
       window.instgrm.Embeds.process();
     }
   }, []);
+  const backgroundImage = '/images/about-bg.jpeg';
 
   return (
     <section
       id="about"
-      className="w-full relative bg-[url('/images/about-bg.jpeg')] bg-center bg-cover flex flex-col bg-white"
+      className="w-full relative bg-center bg-cover flex flex-col bg-white"
+      style={{ backgroundImage: `url('${backgroundImage}')` }}
     >
       <div className="bg-black/85 absolute w-full h-full z-10"></div>
       <Script
