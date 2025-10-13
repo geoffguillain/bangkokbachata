@@ -26,7 +26,7 @@ const CarouselGallery = () => {
               <div className=" grid gap-4 grid-cols-3 lg:gap-4">
                 <div className=" flex md:mb-0 md:flex-col">
                   <video
-                    src="/videos/gallery1.mp4"
+                    src="./videos/gallery1.mp4"
                     className="mr-4 w-auto rounded-lg h-full md:w-full object-cover"
                     autoPlay
                     muted
@@ -36,13 +36,13 @@ const CarouselGallery = () => {
 
                   {/* <img
                   alt=""
-                  src="/images/carouselGallery1.png"
+                  src="./images/carouselGallery1.png"
                   className="mr-4 h-36 w-auto rounded-lg md:h-auto md:w-full"
                 /> */}
                 </div>
                 <div className=" flex md:mb-0 md:flex-col">
                   <video
-                    src="/videos/gallery2.mp4"
+                    src="./videos/gallery2.mp4"
                     className="mr-4 w-auto rounded-lg h-full md:w-full object-cover"
                     autoPlay
                     muted
@@ -52,7 +52,7 @@ const CarouselGallery = () => {
                 </div>
                 <div className="flex md:flex-col">
                   <video
-                    src="/videos/gallery3.mp4"
+                    src="./videos/gallery3.mp4"
                     className="mr-4 w-auto rounded-lg h-full md:w-full object-cover"
                     autoPlay
                     muted
@@ -66,7 +66,7 @@ const CarouselGallery = () => {
               <div className=" grid gap-4 grid-cols-3 lg:gap-4">
                 <div className="mb-2 flex md:mb-0 md:flex-col">
                   <video
-                    src="/videos/gallery4.mp4"
+                    src="./videos/gallery4.mp4"
                     className="mr-4 w-auto rounded-lg h-full md:w-full object-cover"
                     autoPlay
                     muted
@@ -76,7 +76,7 @@ const CarouselGallery = () => {
                 </div>
                 <div className="mb-2 flex md:mb-0 md:flex-col">
                   <video
-                    src="/videos/gallery2.mp4"
+                    src="./videos/gallery2.mp4"
                     className="mr-4 w-auto rounded-lg h-full md:w-full object-cover"
                     autoPlay
                     muted
@@ -86,7 +86,7 @@ const CarouselGallery = () => {
                 </div>
                 <div className="flex md:flex-col">
                   <video
-                    src="/videos/gallery3.mp4"
+                    src="./videos/gallery3.mp4"
                     className="mr-4 w-auto rounded-lg h-full md:w-full object-cover"
                     autoPlay
                     muted
@@ -100,7 +100,7 @@ const CarouselGallery = () => {
               <div className="grid gap-4 grid-cols-3 lg:gap-4">
                 <div className="mb-2 flex md:mb-0 md:flex-col">
                   <video
-                    src="/videos/gallery1.mp4"
+                    src="./videos/gallery1.mp4"
                     className="mr-4 w-auto rounded-lg h-full md:w-full object-cover"
                     autoPlay
                     muted
@@ -110,7 +110,7 @@ const CarouselGallery = () => {
                 </div>
                 <div className="mb-2 flex md:mb-0 md:flex-col">
                   <video
-                    src="/videos/gallery2.mp4"
+                    src="./videos/gallery2.mp4"
                     className="mr-4 w-auto rounded-lg h-full md:w-full object-cover"
                     autoPlay
                     muted
@@ -120,7 +120,7 @@ const CarouselGallery = () => {
                 </div>
                 <div className="flex md:flex-col">
                   <video
-                    src="/videos/gallery3.mp4"
+                    src="./videos/gallery3.mp4"
                     className="mr-4 w-auto rounded-lg h-full md:w-full object-cover"
                     autoPlay
                     muted
@@ -153,7 +153,7 @@ const CarouselGallery = () => {
               <div className="!min-h-[80vh] h-full rounded-lg overflow-hidden ">
                 <div className="mb-2 flex md:mb-0 md:flex-col relative  rounded-lg overflow-hidden h-[80vh] bg-black">
                   <video
-                    src="/videos/gallery1.mp4"
+                    src="./videos/gallery1.mp4"
                     className="mr-4 w-auto rounded-lg h-full md:w-full object-cover"
                     autoPlay
                     muted
@@ -170,7 +170,7 @@ const CarouselGallery = () => {
               <div className="!min-h-[80vh] h-full rounded-lg overflow-hidden ">
                 <div className="mb-2 flex md:mb-0 md:flex-col relative rounded-lg overflow-hidden h-[80vh] bg-black">
                   <video
-                    src="/videos/gallery2.mp4"
+                    src="./videos/gallery2.mp4"
                     className="mr-4 w-auto rounded-lg h-full md:w-full object-cover"
                     autoPlay
                     muted
@@ -187,7 +187,7 @@ const CarouselGallery = () => {
               <div className="!min-h-[80vh] h-full rounded-lg overflow-hidden ">
                 <div className="mb-2 flex md:mb-0 md:flex-col relative rounded-lg overflow-hidden h-[80vh] bg-black">
                   <video
-                    src="/videos/gallery3.mp4"
+                    src="./videos/gallery3.mp4"
                     className="mr-4 w-auto rounded-lg h-full md:w-full object-cover"
                     autoPlay
                     muted
@@ -204,7 +204,7 @@ const CarouselGallery = () => {
               <div className="!min-h-[80vh] h-full rounded-lg overflow-hidden ">
                 <div className="mb-2 flex md:mb-0 md:flex-col relative h-[80vh] rounded-lg overflow-hidden bg-black">
                   <video
-                    src="/videos/gallery4.mp4"
+                    src="./videos/gallery4.mp4"
                     className="mr-4 w-auto rounded-lg h-full md:w-full object-cover"
                     autoPlay
                     muted

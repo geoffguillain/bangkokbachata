@@ -113,7 +113,7 @@ const CTA = () => {
               width={1920}
               height={1080}
               className="scale-[2.45] xl:scale-[2.65] 2xl:scale-[2] rounded-xl "
-              src="/images/pi1.jpeg"
+              src="./images/pi1.jpeg"
             />
           </div>
           <div className="w-[400px] lg:w-[500px]  rounded-xl h-[420px] xl:h-[540px] overflow-hidden  relative lg:mt-8 flex items-center justify-center">
@@ -122,7 +122,7 @@ const CTA = () => {
               width={1920}
               height={1080}
               className=" scale-[1.4] xl:scale-[1.6] 2xl:scale-[1.3] rounded-xl"
-              src="/images/pi2.jpeg"
+              src="./images/pi2.jpeg"
             />
           </div>
         </div>

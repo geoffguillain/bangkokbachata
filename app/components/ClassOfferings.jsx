@@ -29,50 +29,50 @@ const ClassOfferingCard = ({ src, alt, title, description }) => {
 
 const classOfferingsData = [
   {
-    src: "/images/c1.jpg",
+    src: "./images/c1.jpg",
     alt: "Class Offerings 1",
     title: "Bachata Partnerwork",
     description: "Here are the biggest enterprise.",
   },
   {
-    src: "/images/cp1.jpg",
+    src: "./images/cp1.jpg",
     alt: "Class Offerings 2",
     title: "Salsa Partnerwork",
     description: "Here are the biggest enterprise.",
   },
   {
-    src: "/images/cp3.jpeg",
+    src: "./images/cp3.jpeg",
     alt: "Class Offerings 7",
     title: "Kizomba Partnerwork",
     description: "Here are the biggest enterprise.",
   },
   {
-    src: "/images/cp2.png",
+    src: "./images/cp2.png",
     alt: "Class Offerings 3",
     title: "Bachata Lady Styling",
     description: "Here are the biggest enterprise.",
   },
   {
-    src: "/images/cp5.JPG",
+    src: "./images/cp5.JPG",
     alt: "Class Offerings 4",
     title: "Salsa Shines",
     description: "Here are the biggest enterprise.",
   },
   {
-    src: "/images/cp5.jpeg",
+    src: "./images/cp5.jpeg",
     alt: "Class Offerings 5",
     title: "Choreo/Bootcamps",
     description: "Here are the biggest enterprise.",
   },
   {
-    src: "/images/cp4.jpeg",
+    src: "./images/cp4.jpeg",
     alt: "Class Offerings 6",
     title: "Practicas in Studio",
     description: "Here are the biggest enterprise.",
   },
 
   {
-    src: "/images/cp2.jpeg",
+    src: "./images/cp2.jpeg",
     alt: "Class Offerings 8",
     title: "Guest Artist Workshops",
     description: "Here are the biggest enterprise.",

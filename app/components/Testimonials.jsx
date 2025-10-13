@@ -42,7 +42,7 @@ const Testimonials = () => {
                 </p>
                 <div className="mt-6 flex items-center flex-col gap-1">
                   <img
-                    src="/images/maprang.png"
+                    src="./images/maprang.png"
                     className="w-[90px] h-[90px] rounded-full border-2 border-gray-300"
                   />
                   <div className="text-left">
@@ -68,7 +68,7 @@ const Testimonials = () => {
                 </p>
                 <div className="mt-6 flex items-center flex-col gap-1">
                   <img
-                    src="/images/athena.jpg"
+                    src="./images/athena.jpg"
                     className="w-[90px] h-[90px] rounded-full border-2 border-gray-300"
                   />
                   <div className="text-left">
@@ -96,7 +96,7 @@ const Testimonials = () => {
                 </p>
                 <div className="mt-6 flex items-center flex-col gap-1">
                   <img
-                    src="/images/shashe.jpg"
+                    src="./images/shashe.jpg"
                     className="w-[90px] h-[90px] rounded-full border-2 border-gray-300"
                   />
                   <div className="text-left">
@@ -119,7 +119,7 @@ const Testimonials = () => {
                 </p>
                 <div className="mt-6 flex items-center flex-col gap-1">
                   <img
-                    src="/images/warner.jpg"
+                    src="./images/warner.jpg"
                     className="w-[90px] h-[90px] rounded-full border-2 border-gray-300"
                   />
                   <div className="text-left">
@@ -147,7 +147,7 @@ const Testimonials = () => {
                 </p>
                 <div className="mt-6 flex items-center flex-col gap-1">
                   <img
-                    src="/images/kate.jpeg"
+                    src="./images/kate.jpeg"
                     className="w-[90px] h-[90px] rounded-full border-2 border-gray-300"
                   />
                   <div className="text-left">
@@ -172,7 +172,7 @@ const Testimonials = () => {
                 </p>
                 <div className="mt-6 flex items-center flex-col gap-1">
                   <img
-                    src="/images/rory.jpeg"
+                    src="./images/rory.jpeg"
                     className="w-[90px] h-[90px] rounded-full border-2 border-gray-300"
                   />
                   <div className="text-left">
@@ -218,7 +218,7 @@ export default Testimonials;
 //               </p>
 //               <div className="mt-6 flex items-center gap-3">
 //                 <img
-//                   src="/images/customer1.png"
+//                   src="./images/customer1.png"
 //                   className="w-12 h-12 rounded-full border-2 border-gray-300"
 //                 />
 //                 <div className="text-left">
@@ -242,7 +242,7 @@ export default Testimonials;
 //               </p>
 //               <div className="mt-6 flex items-center gap-3">
 //                 <img
-//                   src="/images/customer2.png"
+//                   src="./images/customer2.png"
 //                   className="w-12 h-12 rounded-full border-2 border-gray-300"
 //                 />
 //                 <div className="text-left">
@@ -268,7 +268,7 @@ export default Testimonials;
 //               </p>
 //               <div className="mt-6 flex items-center gap-3">
 //                 <img
-//                   src="/images/customer1.png"
+//                   src="./images/customer1.png"
 //                   className="w-12 h-12 rounded-full border-2 border-gray-300"
 //                 />
 //                 <div className="text-left">
@@ -292,7 +292,7 @@ export default Testimonials;
 //               </p>
 //               <div className="mt-6 flex items-center gap-3">
 //                 <img
-//                   src="/images/customer2.png"
+//                   src="./images/customer2.png"
 //                   className="w-12 h-12 rounded-full border-2 border-gray-300"
 //                 />
 //                 <div className="text-left">

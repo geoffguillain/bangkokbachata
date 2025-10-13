@@ -34,7 +34,7 @@ const Hero = () => {
         className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-500 ${
           playSecondVideo ? "hidden" : "block"
         }`}
-        src="/videos/hero1.mp4"
+        src="./videos/hero1.mp4"
         muted
         playsInline
       ></video>
@@ -45,7 +45,7 @@ const Hero = () => {
         className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-500 ${
           playSecondVideo ? "block" : "hidden"
         }`}
-        src="/videos/hero2.mp4"
+        src="./videos/hero2.mp4"
         muted
         playsInline
       ></video>

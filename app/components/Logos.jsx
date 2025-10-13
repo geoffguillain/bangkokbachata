@@ -16,7 +16,7 @@ const Logos = () => {
         <div className="grid grid-cols gap-8  text-gray-500 dark:text-gray-400 grid-cols-3  sm:grid-cols-4 scale-[0.85]  lg:sclae-[0.95]  xl:scale-100">
           <div className="w-[100px] h-[100px] shadow-sm  scale-100 md:scale-90 lg:scale-100 flex items-center justify-center bg-white border border-gray-100 rounded-lg overflow-hidden relative ">
             <Image
-              src="/alo.png"
+              src="./alo.png"
               alt="Alo"
               width={200}
               height={200}
@@ -26,7 +26,7 @@ const Logos = () => {
 
           <div className="w-[100px] h-[100px] shadow-sm scale-100 md:scale-90 lg:scale-100 flex items-center justify-center bg-white border border-gray-100 rounded-lg overflow-hidden relative ">
             <Image
-              src="/innisfree.png"
+              src="./innisfree.png"
               alt="Innisfree"
               width={200}
               height={200}
@@ -36,7 +36,7 @@ const Logos = () => {
 
           <div className="w-[100px] h-[100px] shadow-sm scale-100 md:scale-90 lg:scale-100 flex items-center justify-center bg-black border border-gray-100 rounded-lg overflow-hidden relative ">
             <Image
-              src="/garmin_.png"
+              src="./garmin_.png"
               alt="Garmin"
               width={200}
               height={200}
@@ -46,7 +46,7 @@ const Logos = () => {
 
           <div className="w-[100px] h-[100px] shadow-sm scale-100 md:scale-90 lg:scale-100 flex items-center justify-center bg-white border border-gray-100 rounded-lg overflow-hidden relative ">
             <Image
-              src="/proove.jpeg"
+              src="./proove.jpeg"
               alt="Proove"
               width={200}
               height={200}
@@ -55,7 +55,7 @@ const Logos = () => {
           </div>
           <div className="w-[100px] h-[100px] shadow-sm scale-100 md:scale-90 lg:scale-100 flex items-center justify-center bg-white border border-gray-100 rounded-lg overflow-hidden relative ">
             <Image
-              src="/food-delite.jpeg"
+              src="./food-delite.jpeg"
               alt="Food Delite"
               width={200}
               height={200}
@@ -64,7 +64,7 @@ const Logos = () => {
           </div>
           <div className="w-[100px] h-[100px] shadow-sm scale-100 md:scale-90 lg:scale-100 flex items-center justify-center bg-white border border-gray-100 rounded-lg overflow-hidden relative ">
             <Image
-              src="/tyler-juice.jpeg"
+              src="./tyler-juice.jpeg"
               alt="Tyler Juice"
               width={200}
               height={200}
@@ -73,7 +73,7 @@ const Logos = () => {
           </div>
           <div className="w-[100px] h-[100px] shadow-sm scale-100 md:scale-90 lg:scale-100 flex items-center justify-center bg-white border border-gray-100 rounded-lg overflow-hidden relative ">
             <Image
-              src="/timeout.png"
+              src="./timeout.png"
               alt="Time Out"
               width={200}
               height={200}
@@ -82,7 +82,7 @@ const Logos = () => {
           </div>
           <div className="w-[100px] h-[100px] shadow-sm scale-100 md:scale-90 lg:scale-100 flex items-center justify-center bg-white border border-gray-100 rounded-lg overflow-hidden relative ">
             <Image
-              src="/the-standard-life.png"
+              src="./the-standard-life.png"
               alt="Alo"
               width={200}
               height={200}
@@ -91,7 +91,7 @@ const Logos = () => {
           </div>
           <div className="w-[100px] h-[100px] shadow-sm scale-100 md:scale-90 lg:scale-100 flex items-center justify-center bg-white border border-gray-100 rounded-lg overflow-hidden relative ">
             <Image
-              src="/lifestyle-asia.png"
+              src="./lifestyle-asia.png"
               alt="Lifestyle Asia"
               width={200}
               height={200}
@@ -100,7 +100,7 @@ const Logos = () => {
           </div>
           <div className="w-[100px] h-[100px] shadow-sm scale-100 md:scale-90 lg:scale-100 flex items-center justify-center bg-white border border-gray-100 rounded-lg overflow-hidden relative ">
             <Image
-              src="/SS.jpg"
+              src="./SS.jpg"
               alt="Alo"
               width={200}
               height={200}
@@ -109,7 +109,7 @@ const Logos = () => {
           </div>
           <div className="w-[100px] h-[100px] shadow-sm scale-100 md:scale-90 lg:scale-100 flex items-center justify-center bg-white border border-gray-100 rounded-lg overflow-hidden relative ">
             <Image
-              src="/stretch.png"
+              src="./stretch.png"
               alt="Stretch Style"
               width={200}
               height={200}
@@ -118,7 +118,7 @@ const Logos = () => {
           </div>
           <div className="w-[100px] h-[100px] shadow-sm scale-100 md:scale-90 lg:scale-100 flex items-center justify-center bg-white border border-gray-100 rounded-lg overflow-hidden relative ">
             <Image
-              src="/fabfigure.jpeg"
+              src="./fabfigure.jpeg"
               alt="Fab Figure"
               width={200}
               height={200}
