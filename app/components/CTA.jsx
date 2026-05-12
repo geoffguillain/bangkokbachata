@@ -84,7 +84,7 @@ const CTA = () => {
             BBG Dance Studio (available for renting) {" "}
           </b>{" "}
           <p className="  text-gray-500 text-lg font-inter">
-            5th floor - unit 10/80, Trendy Building, Sukhumvit 13, Bangkok
+            11th Floor, Sukhumvit Suite, 19 Soi Sukhumvit 13, Khlong Toei Nuea, Watthana, Bangkok 10110
           </p>
           <div className="mt-8 grid grid-cols-1 gap-4 ">
             <iframe
